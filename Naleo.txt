@@ -1,0 +1,7 @@
+My name is Naleo, and I am currently taking CS490R.  I have grown up in Laie,
+and hope to be able to continue studying CS to later get a good job.
+
+My project idea is an application for school scheduling, specifically for very
+small schools or homeschools.  It will have users, assignments, subjects, and
+school years, possibly more.  I hope to write a web frontend for this project,
+and time permitting, some react native mobile apps.
