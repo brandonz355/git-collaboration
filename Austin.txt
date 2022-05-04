@@ -1,1 +1,4 @@
-test
+My name is Austin McMaster. I am from Kennewick Washington,
+and this is the end of my second year at BYU-Hawaii.
+My project is going to be designed similar to discord in look,
+but I want to make a calander similar to that of my mission.
