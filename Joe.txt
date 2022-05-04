@@ -1,0 +1,11 @@
+Hello everyone, I'm Joe Reeve. I come from Canada and
+I major in computer science and peacebuilding, with a 
+minor in entrepreneurship. I have been married for 3 years
+and my wife is now studying here in the graphic design
+program. 
+
+For my final project, I'm going to build a workout tracker
+web app. It will generate custom workout routines based
+on the user's goals/experience and help them to track 
+their progress. Perhaps I will also add a social element
+so that you can see what workouts your friends are doing.
