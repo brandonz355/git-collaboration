@@ -1,0 +1,4 @@
+Aloha, 
+    My Name is Bala Krishna Pilli. Everyone knows me as Balu. I'm currently doing my Computer science degree in BYUH. I love to play cricket and computer games. 
+
+My project ideas is to build a similar to instagram page where users can post their best pic based on the assignment given in the page and that photo will be automatically rated. It will show the best pictures of the previous day who has the highest rating. 
