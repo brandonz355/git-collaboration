@@ -1,0 +1,6 @@
+Hi, I am Zac. I am from Utah and have 1 semester left till graduation. Almost there!!
+For my final I will attempt to make a news source web page that will allow users to share
+and view different news articles. After creating a log in and a user profile the user will then be 
+presented with some top trending news stories which they can either swipe right to save
+and read later or swipe left to disregard. The home page will be populated with news
+while their saved stories will be kept to either read or share with other users later. 
