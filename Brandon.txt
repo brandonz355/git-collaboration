@@ -1,0 +1,6 @@
+My name is Brandon Thomas. I am a computer science major and from Las vegas, Nevada.
+
+My final project is going to be a website that allows those working in entertainment to connect with other like-minded individuals. There will be different 
+classification for each user and channels/rooms that they can go into to communicate and connect with others of a certain category
+
+The three entities will be Users, Channels, and Posts
