@@ -1,0 +1,4 @@
+My Name is Joshua, I grew up in North Carolina and am currently a senior here at BYU-Hawaii
+I am currently working at the library updating their website and building small databases. 
+
+For my final project I am making an app that functions like Robinhood. Users can log in and put paper money into their account. They can see how much they have. They can also put their money into a fund and see how much is invested in there.
