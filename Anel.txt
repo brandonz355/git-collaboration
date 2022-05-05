@@ -1,0 +1,2 @@
+My name is Anel Canto and I'm a Computer Science student in BYU-Hawaii. My favorute color is blue.
+My final project will be similar to twitter, except it will be only for friends. 
